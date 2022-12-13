@@ -1,4 +1,4 @@
-# zku-c3-week1-q2
+# ZkAdd
 
 Install the required node modules by running:
 ```shell
